@@ -1,7 +1,7 @@
 # Face-Recognition
-###Detects faces on live web-camera feed based on training images. 
+### Detects faces on live web-camera feed based on training images. 
 
-##**How-To Use**:
+## **How-To Use**:
 1.You can train it to detect more people 
 by creating folders with the name of the person in "known" and 
 adding their photos in it (Atleast 8 photos). 
